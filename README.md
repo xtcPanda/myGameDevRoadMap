@@ -23,16 +23,16 @@ You will also find the path we took through this course and what the things we t
 ## 🚀 Introduction
 
 Required for any path in Computer Science :
-..* Git - Version Control
-..* Communication skills
-..* Github :
-  ..* Create your profile on github and make it a habit to upload your code and projects on it. it will be as a CV for you later.
-..* Q/A and Search :
-  ..* Don't be afraid or Mr.Perfect and ask someone if your struggling with something it's not bad to ask for help
-  ..* Don't be tight-fisted and share your knowledge with others it's good to share
-  ..* ALWAYS ask GOOGLE !
-..* Stack OverFlow :
-  ..* The place where everyone go to when they are stuck
+..*Git - Version Control
+..*Communication skills
+..*Github :
+  ..*Create your profile on github and make it a habit to upload your code and projects on it. it will be as a CV for you later.
+..*Q/A and Search :
+  ..*Don't be afraid or Mr.Perfect and ask someone if your struggling with something it's not bad to ask for help
+  ..*Don't be tight-fisted and share your knowledge with others it's good to share
+  ..*ALWAYS ask GOOGLE !
+..*Stack OverFlow :
+  ..*The place where everyone go to when they are stuck
   
 take a look on this roadmap by [utilForever](https://github.com/utilForever) : [Game Developer RoadMap](https://github.com/utilForever/game-developer-roadmap).
   
@@ -41,11 +41,11 @@ you can also take a look on this study path by [Milo Yip](https://github.com/mil
 make sure to check out these courses from CS50 : [CS50 introduction to computer science](https://www.edx.org/course/cs50s-introduction-to-computer-science) & [GD50 introduction to game development](https://www.edx.org/course/cs50s-introduction-to-game-development).
 
 also you can go and check out these youtube channels : 
-..* [Derek Banas](https://www.youtube.com/user/derekbanas).
-..* [Brackeys](https://www.youtube.com/user/Brackeys).
-..* [Mix and Jam](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA).
-..* [Riot Games](https://www.youtube.com/channel/UCJEGvSZnQ1pkVfHO8s5G8hA).
-..* [Extra Credits](https://www.youtube.com/user/ExtraCreditz).
+..*[Derek Banas](https://www.youtube.com/user/derekbanas).
+..*[Brackeys](https://www.youtube.com/user/Brackeys).
+..*[Mix and Jam](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA).
+..*[Riot Games](https://www.youtube.com/channel/UCJEGvSZnQ1pkVfHO8s5G8hA).
+..*[Extra Credits](https://www.youtube.com/user/ExtraCreditz).
 
 > P.S.: All credits and thanks to the people who shared thier knowledge with us from the authors of the github repositories to CS50 and Google Developer Student Clubs I will make sure to write thier names at the end of this README.
 
