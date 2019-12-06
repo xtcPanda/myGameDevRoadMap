@@ -101,3 +101,5 @@ The Pictures were edited using Photoshop.
     * [David J. Malan](https://cs.harvard.edu/malan/)
     * [Colton Ogden](https://www.linkedin.com/in/colton-ogden-0514029b/)
 
+
+> These Credits are for everyone teached us something and inspired us one day I included this so everyone can say thank you to them and learn what I learned from them
