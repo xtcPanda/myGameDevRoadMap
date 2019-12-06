@@ -34,9 +34,9 @@ Required for any path in Computer Science :
 * Stack OverFlow :<br>
     The place where everyone go to when they are stuck.
   
-take a look on this roadmap by [utilForever](https://github.com/utilForever) : [Game Developer RoadMap](https://github.com/utilForever/game-developer-roadmap).
+take a look on this roadmap by [Chris Ohk](https://github.com/utilForever) : [Game Developer RoadMap 2018](https://github.com/utilForever/game-developer-roadmap).
   
-you can also take a look on this study path by [Milo Yip](https://github.com/miloyip/game-programmer/) if you like to read : [Study Path for Game Programmer](https://github.com/miloyip/game-programmer/).
+you can also take a look on this study path by [Milo Yip](https://github.com/miloyip/game-programmer/) if you like to read : [Study Path for Game Programmer 2017](https://github.com/miloyip/game-programmer/).
 
 make sure to check out these courses from CS50 : [CS50 introduction to computer science](https://www.edx.org/course/cs50s-introduction-to-computer-science) & [GD50 introduction to game development](https://www.edx.org/course/cs50s-introduction-to-game-development).
 
@@ -51,7 +51,7 @@ also you can go and check out these youtube channels :
 
 ## 🎯 our Roadmap
 
-![](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/Roadmap.png)
+<img src="https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/Roadmap.png" alt="Roadmap img" align="middle">
 
 ## 🚦 Wrap Up
 
