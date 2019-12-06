@@ -25,18 +25,14 @@ You will also find the path we took through this course and what the things we t
 Required for any path in Computer Science :
 * Git - Version Control
 * Communication skills
-* Github :
-    <p>
-    Create your profile on github and make it a habit to upload your code and projects on it. it will be as a CV for you later.
-    </p>
+* Github :<p>
+    Create your profile on github and make it a habit to upload your code and projects on it. it will be as a CV for you later.</p>
 * Q/A and Search :
     * Don't be afraid or Mr.Perfect and ask someone if your struggling with something it's not bad to ask for help
     * Don't be tight-fisted and share your knowledge with others it's good to share
     * ALWAYS ask GOOGLE !
-* Stack OverFlow :
-    <p>
-    The place where everyone go to when they are stuck
-    </p>
+* Stack OverFlow :<p>
+    The place where everyone go to when they are stuck.</p>
   
 take a look on this roadmap by [utilForever](https://github.com/utilForever) : [Game Developer RoadMap](https://github.com/utilForever/game-developer-roadmap).
   
