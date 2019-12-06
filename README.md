@@ -3,7 +3,7 @@
 ![DSC-FUE](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC%20Future%20University%20in%20Egypt%20Logo%20x1%20(1).png)
 > Developer Student Clubs - Future University in Egypt - Game Development
 
-## ⁉️ Introduction
+## 📝 Introduction ⁉️
 
 ![DSC-FUE-GD](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC-FUE-GD3.png)
 > Game Development course, inspired by [CS50](https://github.com/cs50) and [GD50](https://github.com/games50).
@@ -51,19 +51,7 @@ also you can go and check out these youtube channels :
 
 ## 🎯 our Roadmap
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/ClientProgrammer-2018.png)
-
-## 🎨 Client Roadmap
-
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Client.png)
-
-## 👽 Server Roadmap (Thanks to [Heo Lyn](https://github.com/lynheo))
-
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Server.png)
-
-## 📑 Game Tester (QA) Roadmap
-
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/GameTester(QA).png)
+![](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/Roadmap.png)
 
 ## 🚦 Wrap Up
 
