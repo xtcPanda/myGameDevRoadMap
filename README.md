@@ -102,4 +102,4 @@ The Pictures were edited using Photoshop.
     * [Colton Ogden](https://www.linkedin.com/in/colton-ogden-0514029b/)
 
 
-> These Credits are for everyone teached us something and inspired us one day I included this so everyone can say thank you to them and learn what I learned from them
+> These Credits are for everyone teached us something and inspired us one day I included this so everyone can say "thank you" to them and learn what I learned from them
