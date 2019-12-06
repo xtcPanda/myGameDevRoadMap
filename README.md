@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-![DSC-FUE-GD](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC-FUE-GD.png)
+![DSC-FUE-GD](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC-FUE-GD2.png)
 > Game Development course, inspired by [CS50](https://github.com/cs50) and [GD50](https://github.com/games50).
 
 Here you will find the projects we did in this course and the contributions of everyone in this course too.
@@ -15,7 +15,7 @@ You will also find the path we took through this course and what the things we t
 
 > P.S.: this course has no Expert instructor or a game developer leading it.. it's all made by the effort of the students leading it and it's based on the experience that students have and sharing the knowledge between them.
 
-> Check out my [Github](https://github.com/xtcPanda) and say "hi" on [Twitter](https://twitter.com/xtcPanda) or [Facebook](https://www.facebook.com/MoaazAlhajj).
+> Check out my [Github](https://github.com/xtcPanda) and say "hi" to me on [Twitter](https://twitter.com/xtcPanda) or [Facebook](https://www.facebook.com/MoaazAlhajj).
 
 ## 🎮 Disclaimer
 > The purpose of this course is to be a roadmap and give you an idea about the landscape and to guide you if you are confused about what to learn next in this field
