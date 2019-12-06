@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-![DSC-FUE-GD](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC-FUE-GD2.png)
+![DSC-FUE-GD](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC-FUE-GD3.png)
 > Game Development course, inspired by [CS50](https://github.com/cs50) and [GD50](https://github.com/games50).
 
 Here you will find the projects we did in this course and the contributions of everyone in this course too.
