@@ -3,7 +3,7 @@
 ![DSC-FUE](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC%20Future%20University%20in%20Egypt%20Logo%20x1%20(1).png)
 > Developer Student Clubs - Future University in Egypt - Game Development
 
-## Getting Started
+## ⁉️ Introduction
 
 ![DSC-FUE-GD](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC-FUE-GD3.png)
 > Game Development course, inspired by [CS50](https://github.com/cs50) and [GD50](https://github.com/games50).
@@ -20,7 +20,7 @@ You will also find the path we took through this course and what the things we t
 ## 🎮 Disclaimer
 > The purpose of this course is to be a roadmap and give you an idea about the landscape and to guide you if you are confused about what to learn next in this field
 
-## 🚀 Introduction
+## 🚀 Getting Started
 
 Required for any path in Computer Science :
 * Git - Version Control
