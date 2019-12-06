@@ -51,7 +51,7 @@ also you can go and check out these youtube channels :
 
 ## 🎯 our Roadmap
 
-<img src="https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/Roadmap.png" alt="Roadmap img" align="middle">
+![](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/Roadmap-1.png)
 
 ## 🚦 Wrap Up
 
