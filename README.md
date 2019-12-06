@@ -8,7 +8,7 @@
 ![DSC-FUE-GD](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC-FUE-GD3.png)
 > Game Development course, inspired by [CS50](https://github.com/cs50) and [GD50](https://github.com/games50).
 
-Here you will find the projects we did in this course and the contributions of everyone in this course too.
+Here you will find the projects we did in this course and the contributions of everyone in this course too.<br>
 You will also find the path we took through this course and what the things we tried, read or watched.
 
 > P.S.: this course isn't academic 100% and it's not a duplicate from CS50 or anyother course it's just the path we decided to get into the game development industry and to have fun making games with although yes we used alot of the resources we found online to make sure that we are on the right path.
