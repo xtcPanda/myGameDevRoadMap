@@ -89,3 +89,15 @@ The Pictures were edited using Photoshop.
 
 ## Credits
 
+* [Future University in Egypt](https://fue.edu.eg/)
+* [Google Developer Student Clubs](https://developers.google.com/community/dsc/)
+..* [Google Developer Groups](https://twitter.com/gdg)
+..* [Google Developers Experts](https://twitter.com/GoogleDevExpert)
+..* [FUE DSC Lead Arwa Youssef](https://twitter.com/ArwaYoussif1)
+..* [Google Dev Ecosystem MENA Regional Lead Salim Abid](https://twitter.com/abid_salim)
+..* [Google Developer Expert Rayan AL Zahab](https://twitter.com/RayanZahab)
+..* [DevREl Abdelrahman Omran](https://twitter.com/Omranic)
+* [CS50 by Harvard](https://cs50.harvard.edu/college/)
+..* [David J. Malan](https://cs.harvard.edu/malan/)
+..* [Colton Ogden](https://www.linkedin.com/in/colton-ogden-0514029b/)
+
