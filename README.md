@@ -26,17 +26,19 @@ Required for any path in Computer Science :
 * Git - Version Control
 * Communication skills
 * Github :
+..
     Create your profile on github and make it a habit to upload your code and projects on it. it will be as a CV for you later.
 * Q/A and Search :
     * Don't be afraid or Mr.Perfect and ask someone if your struggling with something it's not bad to ask for help
     * Don't be tight-fisted and share your knowledge with others it's good to share
     * ALWAYS ask GOOGLE !
 * Stack OverFlow :
+..
     The place where everyone go to when they are stuck
   
 take a look on this roadmap by [utilForever](https://github.com/utilForever) : [Game Developer RoadMap](https://github.com/utilForever/game-developer-roadmap).
   
-you can also take a look on this study path by [Milo Yip](https://github.com/miloyip/game-programmer/) if you like to read : [Study Path for Game Programmer].
+you can also take a look on this study path by [Milo Yip](https://github.com/miloyip/game-programmer/) if you like to read : [Study Path for Game Programmer](https://github.com/miloyip/game-programmer/).
 
 make sure to check out these courses from CS50 : [CS50 introduction to computer science](https://www.edx.org/course/cs50s-introduction-to-computer-science) & [GD50 introduction to game development](https://www.edx.org/course/cs50s-introduction-to-game-development).
 
