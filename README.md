@@ -38,6 +38,8 @@ take a look on this roadmap by [Chris Ohk](https://github.com/utilForever) : [Ga
   
 you can also take a look on this study path by [Milo Yip](https://github.com/miloyip/game-programmer/) if you like to read : [Study Path for Game Programmer 2017](https://github.com/miloyip/game-programmer/).
 
+and you should check this article too : [How to Get Started with Game Development?](https://www.geeksforgeeks.org/how-to-get-started-with-game-development/).
+
 make sure to check out these courses from CS50 : [CS50 introduction to computer science](https://www.edx.org/course/cs50s-introduction-to-computer-science) & [GD50 introduction to game development](https://www.edx.org/course/cs50s-introduction-to-game-development).
 
 also you can go and check out these youtube channels : 
