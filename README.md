@@ -95,11 +95,10 @@ The roadmap was built using [Balsamiq](https://balsamiq.com/products/mockups/).
 - Reach out to me directly at mo3z.alhajj@gmail.com
 
 ## 🔥 Credits
-
-<ul>
-   <li> [Future University in Egypt](https://fue.edu.eg/) </li>
+* [Future University in Egypt](https://fue.edu.eg/) </li>
 * [Google Developer Student Clubs](https://developers.google.com/community/dsc/)
-    * [Google Developer Groups](https://twitter.com/gdg)&emsp;    * [Google Developers Experts](https://twitter.com/GoogleDevExpert)
+    * [Google Developer Groups](https://twitter.com/gdg)
+    * [Google Developers Experts](https://twitter.com/GoogleDevExpert)
     * [FUE DSC Lead Arwa Youssef](https://twitter.com/ArwaYoussif1)
     * [Google Dev Ecosystem MENA Regional Lead Salim Abid](https://twitter.com/abid_salim)
     * [Google Developer Expert Rayan AL Zahab](https://twitter.com/RayanZahab)
