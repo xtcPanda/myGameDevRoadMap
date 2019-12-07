@@ -81,8 +81,12 @@ If you have any suggestions or think there is something needs to be improved or 
 ## 👬 Contribution
 
 The roadmap was built using [Balsamiq](https://balsamiq.com/products/mockups/).
-The Pictures were edited using Photoshop.
+<br>The Pictures were edited using [Adobe Photoshop](https://www.photoshop.com/) and we will talk about it once or twice.
+<br>We used [Scratch](https://scratch.mit.edu/) too ! you can check it by clicking on "[Scratch](https://scratch.mit.edu/)"
+<br>We will be using Unity Game Engine
+<br>Also we will use LOVE2d Game Engine
 
+> Everything we used though out this course I will be mintioning it up here even if we just talked about it once.
 
 
 - Reach out to me directly at mo3z.alhajj@gmail.com
