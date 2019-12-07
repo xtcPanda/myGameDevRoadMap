@@ -11,9 +11,9 @@
 Here you will find the projects we did in this course and the contributions of everyone in this course too.<br>
 You will also find the path we took through this course and what the things we tried, read or watched.
 
-> P.S.: this course isn't academic 100% and it's not a duplicate from CS50 or anyother course it's just the path we decided to get into the game development industry and to have fun making games with although yes we did use alot of the resources we found online to make sure that we are on the right path.
+> P.S.: this course isn't academic 100% it's all pure personal effort and it's not a duplicate from anyother course it's just the path we decided to get into the game development industry and to have fun making games with although yes we did use alot of the resources we found online to make sure that we are on the right path.
 
-> P.S.: this course has no Expert instructor or a game developer leading it.. it's all made by the effort of the students leading it and it's based on the experience that students have and sharing the knowledge between them.
+> again Consider that this course has no Expert instructor or a game developer leading it.. it's all made by the effort of the students leading it and it's based on the experience that the students have and the shared knowledge between them.
 
 > Check out my [Github](https://github.com/xtcPanda) and say "hi" to me on [Twitter](https://twitter.com/xtcPanda) or [Facebook](https://www.facebook.com/MoaazAlhajj).
 
