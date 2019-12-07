@@ -42,7 +42,7 @@ and you should check this article too : [How to Get Started with Game Developmen
 
 make sure to check out these courses from CS50 : [CS50 introduction to computer science](https://www.edx.org/course/cs50s-introduction-to-computer-science) & [GD50 introduction to game development](https://www.edx.org/course/cs50s-introduction-to-game-development).
 
-other Courses you might wanna take a look at :
+other Courses you might wanna take a look at :<br>
     * [Introduction to Game Design from MITx](https://courses.edx.org/courses/course-v1:MITx+11.126x_2+1T2016/course/)
 
 also you can go and check out these youtube channels : 
