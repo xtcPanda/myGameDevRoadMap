@@ -105,4 +105,4 @@ The Pictures were edited using Photoshop.
     * [Omar Gamal Eldin](https://www.facebook.com/puppetmaster.omar)
 
 
-> These Credits are for everyone teached us or inspired us one day I included this so everyone can say "thank you" to them and learn what I learned from them
+> These Credits are for everyone teached or inspired us one day I included this so everyone can say "thank you" to them and learn what I learned from them
