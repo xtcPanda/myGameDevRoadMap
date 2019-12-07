@@ -102,6 +102,7 @@ The Pictures were edited using Photoshop.
     * [Colton Ogden](https://www.linkedin.com/in/colton-ogden-0514029b/)
 * [Robusta](https://robustastudio.com/)
     * [ElHassan Makled](https://twitter.com/ElHassanMakled)
+    * [Omar Gamal Eldin](https://www.facebook.com/puppetmaster.omar)
 
 
 > These Credits are for everyone teached us or inspired us one day I included this so everyone can say "thank you" to them and learn what I learned from them
