@@ -11,7 +11,7 @@
 Here you will find the projects we did in this course and the contributions of everyone in this course too.<br>
 You will also find the path we took through this course and what the things we tried, read or watched.
 
-> P.S.: this course isn't academic 100% and it's not a duplicate from CS50 or anyother course it's just the path we decided to get into the game development industry and to have fun making games with although yes we used alot of the resources we found online to make sure that we are on the right path.
+> P.S.: this course isn't academic 100% and it's not a duplicate from CS50 or anyother course it's just the path we decided to get into the game development industry and to have fun making games with although yes we did use alot of the resources we found online to make sure that we are on the right path.
 
 > P.S.: this course has no Expert instructor or a game developer leading it.. it's all made by the effort of the students leading it and it's based on the experience that students have and sharing the knowledge between them.
 
@@ -100,6 +100,8 @@ The Pictures were edited using Photoshop.
 * [CS50 by Harvard](https://cs50.harvard.edu/college/)
     * [David J. Malan](https://cs.harvard.edu/malan/)
     * [Colton Ogden](https://www.linkedin.com/in/colton-ogden-0514029b/)
+* [Robusta](https://robustastudio.com/)
+    * [ElHassan Makled](https://twitter.com/ElHassanMakled)
 
 
-> These Credits are for everyone teached us something and inspired us one day I included this so everyone can say "thank you" to them and learn what I learned from them
+> These Credits are for everyone teached us or inspired us one day I included this so everyone can say "thank you" to them and learn what I learned from them
