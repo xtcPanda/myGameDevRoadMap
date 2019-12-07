@@ -44,6 +44,7 @@ make sure to check out these courses from CS50 : [CS50 introduction to computer 
 
 other Courses you might wanna take a look at :
 * [Introduction to Game Design from MITx](https://courses.edx.org/courses/course-v1:MITx+11.126x_2+1T2016/course/)
+* [Serious Gaming by Erasmus University Rotterdam](https://www.coursera.org/learn/serious-gaming)
 
 also you can go and check out these youtube channels : 
 * [Derek Banas](https://www.youtube.com/user/derekbanas).
