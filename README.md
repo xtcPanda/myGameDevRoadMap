@@ -57,7 +57,7 @@ TED Talks you would like your mom and dad to see 💔🤷‍♂️😤 :
 * [An Indie Game Developer | Ahmed Najeeb | TEDxPortTawfik](https://www.youtube.com/watch?v=LAQ39c997GU)
 * 
 
-MORE videos you would like to check if your mom and dad still not convinced your doing something USEFUL FOR THE SOCITY!
+MORE videos you would like to check if your mom and dad still not convinced your doing something USEFUL FOR THE SOCITY😤😤😤!
 * [Testing Gamer vs Non-Gamer Brains: How Do Video Games Affect You? | WIRED](https://www.youtube.com/watch?v=duxWYK-UEiU)
 
 > P.S.: All credits and thanks to the people who shared thier knowledge with us from the authors of the github repositories to CS50 and Google Developer Student Clubs I will make sure to write thier names at the end of this README.
