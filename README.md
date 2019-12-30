@@ -105,7 +105,7 @@ The roadmap was built using [Balsamiq](https://balsamiq.com/products/mockups/).
 - Reach out to me directly at mo3z.alhajj@gmail.com
 
 ## 🔥 Credits
-* [Future University in Egypt](https://fue.edu.eg/) </li>
+* [Future University in Egypt](https://fue.edu.eg/)
 * [Google Developer Student Clubs](https://developers.google.com/community/dsc/)
     * [Google Developer Groups](https://twitter.com/gdg)
     * [Google Developers Experts](https://twitter.com/GoogleDevExpert)
@@ -119,6 +119,7 @@ The roadmap was built using [Balsamiq](https://balsamiq.com/products/mockups/).
 * [Robusta](https://robustastudio.com/)
     * [ElHassan Makled](https://twitter.com/ElHassanMakled)
     * [Omar Gamal Eldin](https://www.facebook.com/puppetmaster.omar)
+* [Vector Game Studio @ GUC](https://www.facebook.com/vgsguc/)
 
 
 > These Credits are for everyone teached or inspired us one day I included this so everyone can say "thank you" to them and learn what I learned from them
