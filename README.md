@@ -52,6 +52,7 @@ also you can go and check out these youtube channels :
 * [Mix and Jam](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA).
 * [Riot Games](https://www.youtube.com/channel/UCJEGvSZnQ1pkVfHO8s5G8hA).
 * [Extra Credits](https://www.youtube.com/user/ExtraCreditz).
+* [Sebastian Lague](youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ).
 
 TED Talks you would like your mom and dad to see 💔🤷‍♂️😤 :
 * [An Indie Game Developer | Ahmed Najeeb | TEDxPortTawfik](https://www.youtube.com/watch?v=LAQ39c997GU)
