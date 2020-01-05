@@ -62,7 +62,8 @@ MORE videos you would like to check if your mom and dad still not convinced your
 
 and here is a link to [MIT recommended courses for students who are interested in studying and making videogames.](http://gamelab.mit.edu/study/courses/)
 
-other:
+
+Other:
 * [Game Development Resources by Kerrigan](https://github.com/Kavex/GameDev-Resources)
 
 > P.S.: All credits and thanks to the people who shared thier knowledge with us from the authors of the github repositories to CS50 and Google Developer Student Clubs I will make sure to write thier names at the end of this README.
