@@ -65,6 +65,8 @@ and here is a link to [MIT recommended courses for students who are interested i
 
 Other:
 * [Game Development Resources by Kerrigan](https://github.com/Kavex/GameDev-Resources)
+* [DrawABox](https://drawabox.com/)
+* [Game Design Document]()
 
 > P.S.: All credits and thanks to the people who shared thier knowledge with us from the authors of the github repositories to CS50 and Google Developer Student Clubs I will make sure to write thier names at the end of this README.
 
