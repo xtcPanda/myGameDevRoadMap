@@ -70,30 +70,101 @@ Other:
 
 > P.S.: All credits and thanks to the people who shared thier knowledge with us from the authors of the github repositories to CS50 and Google Developer Student Clubs I will make sure to write thier names at the end of this README.
 
-## 🎯 our Roadmap
+## 🎯 my Roadmap
 
 ![](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/Roadmap-1.png)
 
-> This is going to be updated weekly in parallel with the learning phase we are reaching.
+> This is going to be updated every time I can in parallel with the learning phase I am reaching.
+
+## Additional Resources
+
+**Game Design Document Examples:**
+
+- [Aric's World's Game Industry Archive](http://wilmunder.com/Arics_World/Games.html): Aric Wilmunder was a programmer at Atari and Luscasfilm Games and worked on a handful of classic titles. His GDD archive is a comprehensive inside look at some of the top titles from those companies.
+- [*Maniac Mansion* Design Notes](http://grumpygamer.com/maniac_mansion_design_1) (on Ron Gilbert's blog)
+- [GDD summary on SeriousGames.eu](http://seriousgamesnet.eu/assets/view/238), with plenty of linked examples (scroll down).
+- [A GDD template on Google Docs](http://forum.unity3d.com/threads/game-design-document-template.240038/), courtesy of HeadClot88 on the Unity3d boards. Just one more way of putting a GDD together.
+
+
+
+**Gaming News:**
+
+- [Kotaku](http://www.kotaku.com/)
+- [IGN](http://www.ign.com/)
+- [Game Informer](http://www.gameinformer.com/)
+- [Polygon](http://www.polygon.com/)
+- [Rock Paper Shotgun](http://www.rockpapershotgun.com/)
+- [Board Game Geek](https://boardgamegeek.com/blog/1/boardgamegeek-news)
+- [Dice Tower News](http://www.dicetowernews.com/)
+- [Boardgaming.com (News)](http://boardgaming.com/bgnews)
+
+
+
+**Gaming Industry:**
+
+- [Game Career Guide](http://www.gamecareerguide.com/)
+- [Gamasutra](http://www.gamasutra.com/)
+- [Games Industry](http://www.gamesindustry.biz/)
+
+
+
+**Sales and Player Counts:**
+
+- [Steam Database](https://steamdb.info/)
+- [VGChartz](http://www.vgchartz.com/)
+- [Thinkgaming.com's App Sales Data page](https://thinkgaming.com/app-sales-data/)
+
+
+
+**General game design books**
+
+- The Art of Game Design: A Book of Lenses, by Jesse Schell
+- Theory of Fun for Game Design, by Raph Koster
+- Level Up! The Guide to Great Video Game Design, by Scott Rogers
+- Video Game Design: Principles and Practices from the Ground Up, by Michael Salmond
+
+
+
+**Storytelling guides**
+
+- The Ultimate Guide to Video Game Writing and Design, by Flint Dille and John Zuur Platten
+- Slay the Dragon: Writing Great Video Games, by Robert Denton Bryant and Keith Giglio
+
+
+
+**Gameplay Experience and Level Design**
+
+- Game Design Workshop: A Playcentric Approach to Creating Innovative Games, by Tracy Fullerton
+- Game Feel: A Game Designer's Guide to Virtual Sensation, by Steve Swink
+- Level Design: Concept, Theory, and Practice, by Rudolf Kremers
+- Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C#, by Jeremy Gibson Bond
+- Preproduction Blueprint: How to Plan Game Environments and Level Designs, by Alex Galuzin
+- Players Making Decisions: Game Design Essentials and the Art of Understanding Your Players, by Zack Hiwiller
+
+
+
+**Visuals and Sound**
+
+- Aesthetic Theory and the Video Game, by Graeme Kirkpatrick
+- Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design, by Karen Collins
+- The Art of Video Games: From Pac-Man to Mass Effect, by Chris Melissinos and Patrick O'Rourke
+- Drawing Basics and Video Game Art: Classic to Cutting-Edge Art Techniques for Winning Video Game Design, by Chris Solarski
+
+
+
+**Historical Surveys and Video Game Theory/Criticism**
+
+- Power-Up: How Japanese Video Games Gave the World an Extra Life, by Chris Kohler
+- Replay: The History of Video Games by Tristan Donovan
+- The Timeless Way of Building by Christopher Alexander
+- Reality Is Broken: Why Games Make Us Better and How They Can Change the World, by Jane McGonigal
+- Game Design Theory: A New Philosophy for Understanding Games, by Keith Burgun
+- Rules of Play: Game Design Fundamentals, by Katie Salen Tekinbaş and Eric Zimmerman
 
 ## 🚦 Wrap Up
 
 If you have any suggestions or think there is something needs to be improved or have any ideas you wanna share, please do contact me as soon as possible. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
-## ☑ TODO
-
-- [X] Add Introduction
-- [X] Add week 0
-- [ ] Add week 1
-- [ ] Add week 2
-- [ ] Add week 3
-- [ ] Add week 4
-- [ ] Add week 5
-- [ ] Add week 6
-- [ ] Add week 7
-- [ ] Add week 8
-- [ ] Add week 9
-- [ ] Add week 10
 
 > There will be some Game Jams and Game events in addition to some tournaments all that will be anounced about on our page
 
@@ -106,7 +177,7 @@ The roadmap was built using [Balsamiq](https://balsamiq.com/products/mockups/).
 <br>
 <br> to be continued..
 
-> Everything we used through out this course I will be mintioning it up here even if we just talked about it once.
+> Everything I used through out this course I will be mintioning it up here even if I just talked about it once.
 
 
 - Reach out to me directly at mo3z.alhajj@gmail.com
