@@ -1,4 +1,4 @@
-# DSC-FUE-GD
+# the Game Development, Design and Art Roadmap
 
 ![DSC-FUE](https://github.com/xtcPanda/DSC-FUE-GD/blob/master/images/DSC%20Future%20University%20in%20Egypt%20Logo%20x1%20(1).png)
 > Developer Student Clubs - Future University in Egypt - Game Development
